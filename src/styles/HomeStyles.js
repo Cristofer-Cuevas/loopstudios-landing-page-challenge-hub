@@ -71,7 +71,7 @@ export const Header = styled.header`
   @media screen and (min-width: 800px) {
     background-image: url(${heroDesktop});
     background-size: 100% 100%;
-    height: 30rem;
+    height: 100vh;
     .hamburger {
       display: none;
     }
@@ -101,9 +101,9 @@ export const Header = styled.header`
     }
 
     .title {
-      margin-top: 3.5rem;
-      font-size: 4rem;
-      width: 35rem;
+      margin-top: 7rem;
+      font-size: 5rem;
+      width: 45rem;
       word-spacing: 0;
       margin-left: 3.5rem;
     }
@@ -196,7 +196,7 @@ export const Main = styled.main`
   @media screen and (min-width: 800px) {
     .interactiveContainer {
       margin: 0 auto;
-      width: 51rem;
+      width: 60rem;
       justify-content: center;
       position: relative;
     }
@@ -204,7 +204,7 @@ export const Main = styled.main`
     .interactiveTitleAndParagraph {
       background-color: white;
       position: absolute;
-      width: 30rem;
+      width: 28rem;
       bottom: 0;
       right: 0;
     }
@@ -218,14 +218,14 @@ export const Main = styled.main`
     }
 
     .interactiveImg {
-      width: 30rem;
+      width: 40rem;
       display: inline;
     }
 
     .creationsContainer {
       margin: 3rem auto;
       width: 80%;
-      max-width: 900px;
+      max-width: 1000px;
       flex-direction: row;
       justify-content: center;
       flex-wrap: wrap;
@@ -233,7 +233,7 @@ export const Main = styled.main`
 
     .creation {
       box-shadow: inset 70px 0px 70px 0px rgba(0, 0, 0, 0.6);
-      width: 12rem;
+      width: 14rem;
       height: 55vmin;
       margin: 1rem 0.5rem;
     }
