@@ -4,12 +4,12 @@
 
 Mobile
 
-![](screenshots/mobile-screeshot-web-page.png)
+![](screenshots/mobile-screenshot-web-page.png)
 
 Desktop
 
-![](screenshots/desktop-screeshot-web-page.png)
+![](screenshots/desktop-obile-screenshot-web-page.png)
 
 ## `Live`
 
-Link:
+Link: [](https://loopstudios-landing-page-challenge-hub.vercel.app)
