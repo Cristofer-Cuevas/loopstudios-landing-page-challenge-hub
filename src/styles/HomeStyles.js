@@ -71,7 +71,7 @@ export const Header = styled.header`
   @media screen and (min-width: 800px) {
     background-image: url(${heroDesktop});
     background-size: 100% 100%;
-    height: 100vh;
+    height: 36rem;
     .hamburger {
       display: none;
     }
@@ -102,8 +102,8 @@ export const Header = styled.header`
 
     .title {
       margin-top: 7rem;
-      font-size: 5rem;
-      width: 45rem;
+      font-size: 4rem;
+      width: 35rem;
       word-spacing: 0;
       margin-left: 3.5rem;
     }
