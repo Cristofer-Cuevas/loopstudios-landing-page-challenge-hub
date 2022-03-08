@@ -8,8 +8,8 @@ Mobile
 
 Desktop
 
-![](screenshots/desktop-obile-screenshot-web-page.png)
+![](screenshots/desktop-screenshot-web-page.png)
 
 ## `Live`
 
-Link: [](https://loopstudios-landing-page-challenge-hub.vercel.app)
+Link: [Link Live](https://loopstudios-landing-page-challenge-hub.vercel.app)
