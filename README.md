@@ -12,4 +12,4 @@ Desktop
 
 ## `Live`
 
-Link: [Link Live](https://loopstudios-landing-page-challenge-hub.vercel.app)
+Link: [Loopstudio web page link](https://loopstudios-landing-page-challenge-hub.vercel.app)
