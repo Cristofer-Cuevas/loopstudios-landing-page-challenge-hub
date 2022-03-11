@@ -11,6 +11,7 @@ import pinterestLogo from "../styles/images/icon-pinterest.svg";
 import instagramLogo from "../styles/images/icon-instagram.svg";
 import closeImg from "../styles/images/icon-close.svg";
 
+// --------- Logic to show nav bar --------//
 const Loopstudios = (props) => {
   const handleHamburgerClick = (e) => {
     e.target.nextSibling.classList.toggle("showNavBar");
